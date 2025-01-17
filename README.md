@@ -1,13 +1,4 @@
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-
-![Ansible Quality Score](https://img.shields.io/ansible/quality/432?style=plastic)
-
-
 
 
 # IPL 2022  
@@ -101,25 +92,5 @@ The data below is an example of properly formatted data.
 
 ![download (1)](https://user-images.githubusercontent.com/106439762/177097342-3b6438d0-b5d9-44da-8763-305ed12238d7.png)
 
-
-## 🚀 About Me
-I'm an aspiring data analyst...
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarsaeedkhan/)
-
-
-
-## 🛠 Skills
-
-    •	Structured Query Language (SQL)
-    •	Python
-    •	Excel
-    •	Tableau
-    •	Python
-    •	Analytical Visualisation
-    •	PowerPoint
-    •	MS Word
 
 
